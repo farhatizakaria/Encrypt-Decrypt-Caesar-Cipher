@@ -7,3 +7,9 @@ Briefly it's to easy
 * make sure that your word which you want to encrypt it be a one word like ````ROOT```` or ````HELLO```` not like this ````HELLO WORLD```` :ok_hand:
 * make sure for the word should be uppercase ````ROOT```` not lowercase ````root```` :ok_hand:
 * also be sure for the key's value should be an integer ! :ok_hand:
+
+## Examples
+Let's use key = 4
+* ````ROOT```` => ````VSSX````
+* ````HELLO```` => ````LIPPS````
+* ````WORLD```` => ````ASVPH````
