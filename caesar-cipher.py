@@ -1,10 +1,12 @@
 from numpy import array # We're going to use it for changing from list's type to array's type
+# A list contains all letters
 letters = ['A','B','C','D','E','F','G',
            'H','I','J','K','L','M','N','O','P',
            'Q','R','S','T','U','V','W','X','Y','Z']
 
 
-def encryption(key):
+def encryption(key): #encryp function
+    """encryption function"""
     assert(type(key) == int), ('The key should be an integer number!')
     try:
         print('Encryption...')
@@ -22,6 +24,7 @@ def encryption(key):
         print(e)
 
 def decryption(key):
+    """decryption function"""
     assert(type(key) == int), ('The key should be an integer number!')
     try:
         print('Decryption...')
@@ -40,6 +43,7 @@ def decryption(key):
         print(e)
 
 def main():
+    """Main function"""
     print("===============================================")
     print("Hi there please selecte the following choices: ")
     print("1 - for encryption")
