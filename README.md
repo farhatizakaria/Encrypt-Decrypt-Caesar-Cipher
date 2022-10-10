@@ -1,7 +1,7 @@
 # Encrypt-Decrypt-Caesar-Cipher
 Encrypt :lock: and decrypt :unlock: using Caesar Cipher
 
-# CodeFactor Rating
+## CodeFactor Rating
 [![CodeFactor](https://www.codefactor.io/repository/github/farhatizakaria/encrypt-decrypt-caesar-cipher/badge)](https://www.codefactor.io/repository/github/farhatizakaria/encrypt-decrypt-caesar-cipher)
 
 ## How can I use it?
